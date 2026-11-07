@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9debe36f8e3bd9c40ba331a8f1223269
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Trees Ambient-Occlusion/Materials/MimosaBark.mat
+  uploadId: 887168

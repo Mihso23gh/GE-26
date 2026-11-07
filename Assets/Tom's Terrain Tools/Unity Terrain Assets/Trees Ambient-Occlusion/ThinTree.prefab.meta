@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0752fb98a21a7f4ab4ffe7c291effbf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Trees Ambient-Occlusion/ThinTree.prefab
+  uploadId: 887168

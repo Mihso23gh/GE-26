@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d026f313b781f475a96f38b356e30818
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Example Data/2-heightmap.raw
+  uploadId: 887168

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 683df9ce33c269f4b92e65d75058030e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Example Data/Trees/SampleTree2.prefab
+  uploadId: 887168

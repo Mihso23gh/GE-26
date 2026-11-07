@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4af10e96a7ea354084ccd66598beddd
+timeCreated: 1432157780
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Materials/Forest Floor.mat
+  uploadId: 887168

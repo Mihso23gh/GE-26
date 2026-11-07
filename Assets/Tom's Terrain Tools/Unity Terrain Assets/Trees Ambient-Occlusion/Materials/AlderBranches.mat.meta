@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76f814fd8d0cfa34db9dfd82116a2437
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Trees Ambient-Occlusion/Materials/AlderBranches.mat
+  uploadId: 887168

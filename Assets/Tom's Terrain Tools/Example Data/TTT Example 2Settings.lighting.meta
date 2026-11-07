@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d98f9efac8dfa9144a6d297878538d20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Example Data/TTT Example 2Settings.lighting
+  uploadId: 887168

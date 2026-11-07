@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69f52f21627ab0e438d27272cacdecb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Example Data/Materials/Tree_Leaves1.mat
+  uploadId: 887168

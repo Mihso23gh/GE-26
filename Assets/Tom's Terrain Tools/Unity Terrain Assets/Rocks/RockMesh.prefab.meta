@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8239b07f86bd639438b2772e706ab073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Rocks/RockMesh.prefab
+  uploadId: 887168

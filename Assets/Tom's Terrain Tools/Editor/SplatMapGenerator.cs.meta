@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 22f0b1bd5cc39344aa456d5fbadd39f1
+timeCreated: 1442697943
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Editor/SplatMapGenerator.cs
+  uploadId: 887168

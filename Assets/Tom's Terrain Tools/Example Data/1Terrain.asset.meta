@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff6a60357cd5c9d43a07d90aca24ab65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Example Data/1Terrain.asset
+  uploadId: 887168

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a299938b4eda8534eb7ca5cd8f8fce60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Trees Ambient-Occlusion/Models/Materials/ScotsPineTypeA-pine
+    needles.mat
+  uploadId: 887168

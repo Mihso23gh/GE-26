@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6ef43abea576784d94465478efd6a7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64852
+  packageName: Terrain Tools
+  packageVersion: 2.8
+  assetPath: Assets/Tom's Terrain Tools/Unity Terrain Assets/Rocks/Models/Materials/RockMesh-RockMat.mat
+  uploadId: 887168
